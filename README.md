@@ -12,3 +12,5 @@ Prve pojdeme na stranku [Tuya IoT Cloud](https://iot.tuya.com/ "Tuya IoT Cloud")
 
 ## 2.
 Pojdeme na stranku [Node JS](https://nodejs.org/en/download/ "Node JS") a si stiahneme Node.js, a si ho nainštalujeme a po inštalacii si otovorime ****Praikozvy Riadok CMD**** a s skopirujeme si tam `npm i @tuyapi/cli -g` po ukončeni si tam skopirujeme `tuya-cli wizard` po dalšiom ukončeni bude to po nas pytať ****The API key from tuya.com:**** skopirujeme tam svoj ***Access ID/Client ID:*** dame enter potom ***Access Secret/Client Secret:*** dame enter bude po nas teraz pytat ***Provide a 'virtual ID' of a device currently registered in the app:*** vložime ho tam a dame zase enter, teraz na nas vyšla odpoved (Kľuče) teraz si to cele niekde okpirujeme a možme CMD vypnut.
+
+## 3.

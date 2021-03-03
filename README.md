@@ -13,5 +13,13 @@ Prvé pôjdeme na stránku [Tuya IoT](https://iot.tuya.com/ "Tuya IoT") tam sa z
 ## 2.
 Pojdeme na stranku [Node JS](https://nodejs.org/en/download/ "Node JS") a si stiahneme *****Node.js*****, a si ho nainštalujeme a po inštalacii si otovorime *****Prikazovy Riadok CMD***** a si skopirujeme tam `npm i @tuyapi/cli -g` a dame enter po ukončeni si tam skopirujeme `tuya-cli wizard` a dame enter po dalšiom ukončeni bude to po nas pytať *****The API key from tuya.com:***** skopirujeme tam svoj *****Access ID/Client ID:***** dame enter potom *****Access Secret/Client Secret:***** dame enter bude po nas teraz pytat *****Provide a 'virtual ID' of a device currently registered in the app:***** vložime ho tam a dame zase enter, teraz na nas vyšla odpoved (Kľuče) teraz si to cele niekde okpirujeme a možme CMD vypnut.
 
+
+
+Pôjdeme na stránku [Node JS](https://nodejs.org/en/download/ "Node JS") a si stiahneme *****Node.js*****, a si ho nainštalujeme a po inštalácii si otovorime *****Príkazový Riadok CMD***** a si skopírujeme tam `npm i @tuyapi/cli -g` a dáme enter po ukončení si tam skopírujeme `tuya-cli wizard` a dáme enter po dalšiom ukončení bude to po nás pýtať *****The API key from tuya.com:***** skopírujeme tam svoj *****Access ID/Client ID:***** dáme enter potom *****Access Secret/Client Secret:***** dáme enter bude po nás teraz pýtať *****Provide a 'virtual ID' of a device currently registered in the app:***** vložíme ho tam a dáme zase enter, teraz na nás vyšla odpoveď (Kľúče) teraz si to cele niekde okpirujeme a môžme CMD vypnúť.
+
+
+
+
+
 ## 3.
 Otvorime si v *****Home Assistantovi HACS***** klikneme na *****Integrations***** vyhladame tam *****Local Tuya***** nainštalujeme dame reštart Home Assistanta, otvorime si *****Configuration***** dame integrations klikneme na *****+ ADD INTEGRATION***** vyhladame *****LocalTuya***** klikneme na to, vybereme si zariadenie ktore chceme pridat do *****HA***** dame *****SUMBIT***** nastavime Meno do *****Key:***** pridame tu odpoved ktora nam vyšla vo *****CMD***** rovanko v *****CMD***** je to pomenovane ako v HA, vybereme protkol dame *****SUMBIT***** a hotove.

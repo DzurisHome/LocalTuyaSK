@@ -1,6 +1,6 @@
 # LocalTuya Tutorial SK
 
-Ako integrovať TuYa Cloud zariadenia cez TuYa Local do Home Assistanta
+Ako integrovať TuYa zariadenia do Home Assistanta cez TuYa Local.
 
 ## Vyhody
 - Funguje to Lokalne nevyuživa to Cloud, neje potreba žiadny Tuya Convert.

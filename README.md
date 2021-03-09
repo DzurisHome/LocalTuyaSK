@@ -2,7 +2,7 @@
 
 Ako integrovať TuYa zariadenia do Home Assistanta cez TuYa Local.
 
-![](https://github.com/milandzuris/LocalTuya/blob/main/Local%20Tuya.png)
+![Local Tuya](https://github.com/milandzuris/LocalTuya/blob/main/Local%20Tuya.png) ![Tuya](https://github.com/milandzuris/LocalTuya/blob/main/Tuya.png)
 
 ## Výhody
 - Funguje to Lokálne nevyužíva to Cloud, neje potreba žiadny Tuya Convert.

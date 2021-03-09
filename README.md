@@ -1,6 +1,7 @@
 # LocalTuya Tutorial SK
 
 Ako integrovať TuYa zariadenia do Home Assistanta cez TuYa Local.
+
 ![](https://github.com/milandzuris/LocalTuya/blob/main/Local%20Tuya.png)
 
 ## Výhody

@@ -30,4 +30,4 @@ Otvoríme si v *****Home Assistantovi HACS***** klikneme na *****Integrations***
 
 ![Issues](https://img.shields.io/codeclimate/issues/DzurisHome/LocalTuya?style=for-the-badge)
 
-[<img src='https://img.icons8.com/cute-clipart/64/000000/discord-logo.png' alt='Discord' height='64'>](https://discord.gg/wpg5aAx)
+[<img src='https://img.icons8.com/cute-clipart/64/000000/discord-logo.png' alt='Discord' height='64'>](https://discord.gg/wpg5aAx) ![Discord Online](https://img.shields.io/discord/731017969706205264?style=flat-square)

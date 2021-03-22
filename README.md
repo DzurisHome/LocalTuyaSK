@@ -4,6 +4,8 @@
 
 ![Dzuriš Home, Local Tuya, Tuya](https://github.com/DzurisHome/LocalTuya/blob/main/0.1.jpg)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='60'>](https://www.instagram.com/DzurisHome/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='60'>](https://twitter.com/DzurisHome)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='60'>](https://discord.gg/wpg5aAx)  
+
 ## Výhody
 - Funguje to Lokálne nevyužíva to Cloud, neje potreba žiadny Tuya Convert.
 - Funguje to aj počas vypadaku (ISP) Internetu.

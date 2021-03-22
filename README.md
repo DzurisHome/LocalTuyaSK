@@ -34,3 +34,18 @@ Otvoríme si v *****Home Assistantovi HACS***** klikneme na *****Integrations***
 
 ## Repositary
 ![Issues](https://img.shields.io/github/issues/DzurisHome/LocalTuya?color=FF0000&style=for-the-badge) ![License](https://img.shields.io/github/license/DzurisHome/LocalTuya?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/DzurisHome/Localtuya?style=for-the-badge) ![Stars](https://img.shields.io/github/stars/DzurisHome/LocalTuya?color=FFE400&style=for-the-badge)  
+
+
+
+
+
+
+
+
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="64" height="64"
+viewBox="0 0 172 172"
+style=" fill:#000000;"><defs><linearGradient x1="86" y1="17.91756" x2="86" y2="155.531" gradientUnits="userSpaceOnUse" id="color-1_43625_gr1"><stop offset="0" stop-color="#00c6ff"></stop><stop offset="1" stop-color="#0072ff"></stop></linearGradient><linearGradient x1="86" y1="48.82381" x2="86" y2="122.76231" gradientUnits="userSpaceOnUse" id="color-2_43625_gr2"><stop offset="0" stop-color="#70dfff"></stop><stop offset="1" stop-color="#70afff"></stop></linearGradient><linearGradient x1="123.625" y1="34.26563" x2="123.625" y2="61.94419" gradientUnits="userSpaceOnUse" id="color-3_43625_gr3"><stop offset="0" stop-color="#70dfff"></stop><stop offset="1" stop-color="#70afff"></stop></linearGradient></defs><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g><path d="M118.25,153.1875h-64.5c-19.264,0 -34.9375,-15.6735 -34.9375,-34.9375v-64.5c0,-19.264 15.6735,-34.9375 34.9375,-34.9375h64.5c19.264,0 34.9375,15.6735 34.9375,34.9375v64.5c0,19.264 -15.6735,34.9375 -34.9375,34.9375zM53.75,24.1875c-16.29969,0 -29.5625,13.26281 -29.5625,29.5625v64.5c0,16.29969 13.26281,29.5625 29.5625,29.5625h64.5c16.29969,0 29.5625,-13.26281 29.5625,-29.5625v-64.5c0,-16.29969 -13.26281,-29.5625 -29.5625,-29.5625z" fill="url(#color-1_43625_gr1)"></path><path d="M86,120.9375c-19.264,0 -34.9375,-15.6735 -34.9375,-34.9375c0,-19.264 15.6735,-34.9375 34.9375,-34.9375c19.264,0 34.9375,15.6735 34.9375,34.9375c0,19.264 -15.6735,34.9375 -34.9375,34.9375zM86,61.8125c-13.33537,0 -24.1875,10.85213 -24.1875,24.1875c0,13.33806 10.85213,24.1875 24.1875,24.1875c13.33806,0 24.1875,-10.84944 24.1875,-24.1875c0,-13.33537 -10.84944,-24.1875 -24.1875,-24.1875z" fill="url(#color-2_43625_gr2)"></path><path d="M123.625,40.3125c-4.4528,0 -8.0625,3.6097 -8.0625,8.0625c0,4.4528 3.6097,8.0625 8.0625,8.0625c4.4528,0 8.0625,-3.6097 8.0625,-8.0625c0,-4.4528 -3.6097,-8.0625 -8.0625,-8.0625z" fill="url(#color-3_43625_gr3)"></path></g></g></svg>

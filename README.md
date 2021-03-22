@@ -27,7 +27,7 @@ Otvoríme si v *****Home Assistantovi HACS***** klikneme na *****Integrations***
 ![Local Tuya](https://github.com/milandzuris/LocalTuya/blob/main/Local%20Tuya.png)    ![Home Assistant](https://github.com/DzurisHome/LocalTuya/blob/main/Home%20Assistant.png)
 
 ## Social
-[<img src='https://img.icons8.com/cute-clipart/64/000000/discord-logo.png' alt='Discord' height='64'>](https://discord.gg/wpg5aAx) [<img src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' alt='Instagram' height='64'>](https://instagram.com/milandzuris) [<img src='https://img.icons8.com/cute-clipart/64/000000/twitter.png' alt='Twitter' height='64'>](https://twitter.com/DzurisHome)
+[<img src='https://img.icons8.com/cute-clipart/64/000000/discord-logo.png' alt='Discord' height='64'>](https://discord.gg/wpg5aAx) [<img src='https://img.icons8.com/ios/100/000000/instagram-new--v3.png' alt='Instagram' height='64'>](https://instagram.com/milandzuris) [<img src='https://img.icons8.com/cute-clipart/64/000000/twitter.png' alt='Twitter' height='64'>](https://twitter.com/DzurisHome)
 
 ## Stats
 [![Discord Server](https://discord.com/api/guilds/731017969706205264/embed.png)](https://discord.gg/wpg5aAx) ![Twitter](https://img.shields.io/twitter/follow/DzurisHome?color=00C1FF&style=for-the-badge)

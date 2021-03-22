@@ -32,11 +32,11 @@ Otvoríme si v *****Home Assistantovi HACS***** klikneme na *****Integrations***
 ## Stats
 [![Discord Server](https://discord.com/api/guilds/731017969706205264/embed.png)](https://discord.gg/wpg5aAx)
 
-##Repositary
+## Repositary
 ![Issues](https://img.shields.io/github/issues/DzurisHome/LocalTuya?color=FF0000&style=for-the-badge) ![License](https://img.shields.io/github/license/DzurisHome/LocalTuya?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/DzurisHome/Localtuya?style=for-the-badge) ![Stars](https://img.shields.io/github/stars/DzurisHome/LocalTuya?color=FFE400&style=for-the-badge)  
 
 
 
 
 
-[<img src='https://img.icons8.com/cute-clipart/64/000000/discord-logo.png' alt='Discord' height='64'>](https://discord.gg/wpg5aAx) ![Discord Online](https://img.shields.io/discord/731017969706205264?color=29A8DF&label=Discord%20Online&logo=Dzuri%C5%A1%20Home%20Discord&style=for-the-badge) ![Twitter](https://img.shields.io/twitter/follow/DzurisHome?color=00C1FF&style=for-the-badge)
+![Twitter](https://img.shields.io/twitter/follow/DzurisHome?color=00C1FF&style=for-the-badge)

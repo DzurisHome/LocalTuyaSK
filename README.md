@@ -26,4 +26,4 @@ Otvoríme si v *****Home Assistantovi HACS***** klikneme na *****Integrations***
 
 ![Local Tuya](https://github.com/milandzuris/LocalTuya/blob/main/Local%20Tuya.png)    ![Home Assistant](https://github.com/DzurisHome/LocalTuya/blob/main/Home%20Assistant.png)
 
-[![Discord](https://img.shields.io/badge/donate-Patreon-blue.svg)](https://www.patreon.com/GrovkillenTDer) [![Issues](https://img.shields.io/codeclimate/issues/DzurisHome/LocalTuya?style=for-the-badge)]
+[![Discord](https://img.shields.io/badge/donate-Patreon-blue.svg)](https://www.patreon.com/GrovkillenTDer) [![Issues](https://img.shields.io/codeclimate/issues/DzurisHome/LocalTuya?style=for-the-badge)](https://img.shields.io/codeclimate/issues/DzurisHome/LocalTuya?style=for-the-badge)

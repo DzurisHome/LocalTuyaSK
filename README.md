@@ -17,9 +17,9 @@ Prvé pôjdeme na stránku [Tuya IoT](https://iot.tuya.com/ "Tuya IoT") tam sa z
 ## 2.
 Pôjdeme na stránku [Node JS](https://nodejs.org/en/download/ "Node JS") a si stiahneme *****Node.js*****, a si ho nainštalujeme a po inštalácii si otovorime *****Príkazový Riadok CMD***** a si skopírujeme tam `npm i @tuyapi/cli -g` a dáme enter po ukončení si tam skopírujeme `tuya-cli wizard` a dáme enter po dalšiom ukončení bude to po nás pýtať *****The API key from tuya.com:***** skopírujeme tam svoj *****Access ID/Client ID:***** dáme enter potom *****Access Secret/Client Secret:***** dáme enter bude po nás teraz pýtať *****Provide a 'virtual ID' of a device currently registered in the app:***** vložíme ho tam a dáme zase enter, teraz na nás vyšla odpoveď (Kľúče) teraz si to cele niekde okpirujeme a môžme CMD vypnúť.
 
-![Node JS](https://github.com/DzurisHome/LocalTuya/blob/main/Node%20JS.png)
+![Node JS](https://github.com/DzurisHome/LocalTuya/blob/main/Node%20JS.png) ![Terminal](https://github.com/DzurisHome/LocalTuya/blob/main/Terminal.png)
 
 ## 3.
 Otvoríme si v *****Home Assistantovi HACS***** klikneme na *****Integrations***** vyhľadáme tam *****Local Tuya***** nainštalujeme dáme reštart Home Assistanta, otvoríme si *****Configuration***** dáme integrations klikneme na *****+ ADD INTEGRATION***** vyhľadáme *****LocalTuya***** klikneme na to, vybereme si zariadenie ktoré chceme pridať do *****HA***** dáme *****SUMBIT***** nastavíme Meno do *****Key:***** pridáme tu odpoveď ktorá nám vyšla vo *****CMD*****, rovanko v *****CMD***** je to pomenované ako v HA, vybereme protkol dáme *****SUMBIT***** a hotové.
 
-![Local Tuya](https://github.com/milandzuris/LocalTuya/blob/main/Local%20Tuya.png)
+![Local Tuya](https://github.com/milandzuris/LocalTuya/blob/main/Local%20Tuya.png) ![Home Assistant](https://github.com/DzurisHome/LocalTuya/blob/main/Home%20Assistant.png)

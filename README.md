@@ -30,7 +30,7 @@ Otvoríme si v *****Home Assistantovi HACS***** klikneme na *****Integrations***
 [<img src='https://img.icons8.com/cute-clipart/64/000000/discord-logo.png' alt='Discord' height='64'>](https://discord.gg/wpg5aAx)  [<img src='https://img.icons8.com/cute-clipart/64/000000/twitter.png' alt='Twitter' height'64'>](https://twitter.com/intent/follow?screen_name=DzurisHome)  [<img src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' alt='Instagram' height='64'>](https://instagram.com/milandzuris)
 
 
-[<img src='https://img.icons8.com/cute-clipart/64/000000/twitter.png' alt='Twitter' height'64'>](https://twitter.com/DzurisHome)
+[<img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/> alt='Twitter' height'64'>](https://twitter.com/DzurisHome)
 
 
 

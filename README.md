@@ -33,11 +33,8 @@ Otvoríme si v *****Home Assistantovi HACS***** klikneme na *****Integrations***
 
 
 
-[<img src="https://img.icons8.com/nolan/64/twitter.png" alt='Twitter' height'64'>](https://twitter.com/DzurisHome)
 
 
-
-[<img src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' alt='Instagram' height='64'>](https://instagram.com/milandzuris)
 
 
 

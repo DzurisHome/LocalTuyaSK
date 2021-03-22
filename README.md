@@ -1,6 +1,6 @@
 # Local Tuya Tutorial SK
 
-## Ako integrovať TuYa zariadenia do Home Assistanta cez TuYa Local.
+## Ako integrovať TuYa zariadenia do Home Assistanta cez Tuya Local.
 
 ![Dzuriš Home, Local Tuya, Tuya](https://github.com/DzurisHome/LocalTuya/blob/main/0.1.jpg)
 

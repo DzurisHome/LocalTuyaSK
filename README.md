@@ -1,4 +1,4 @@
-# LocalTuya Tutorial SK
+# Local Tuya Tutorial SK
 
 ## Ako integrovať TuYa zariadenia do Home Assistanta cez TuYa Local.
 

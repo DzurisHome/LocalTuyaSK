@@ -4,7 +4,8 @@
 
 ![Dzuriš Home, Local Tuya, Tuya](https://github.com/DzurisHome/LocalTuya/blob/main/0.1.jpg)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='60'>](https://www.instagram.com/DzurisHome/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='60'>](https://twitter.com/DzurisHome)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='60'>](https://discord.gg/wpg5aAx)  
+[<img src='https://img.icons8.com/cute-clipart/64/000000/discord-logo.png' alt='Discord' height='64'>](https://discord.gg/wpg5aAx) [<img src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' alt='Instagram' height='64'>](https://instagram.com/milandzuris) [<img src='https://img.icons8.com/cute-clipart/64/000000/twitter.png' alt='Twitter' height='64'>](https://twitter.com/DzurisHome)
+
 
 ## Výhody
 - Funguje to Lokálne nevyužíva to Cloud, neje potreba žiadny Tuya Convert.

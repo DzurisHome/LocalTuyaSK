@@ -13,7 +13,7 @@
 
 ## Rozspis
 - [1](https://github.com/DzurisHome/LocalTuya#1) Potrebné bez toho sa ďalej neposuvneme.
-- [2.1](https://github.com/DzurisHome/LocalTuya#21) Rýchlejšie získanie *****KEY/KĽUČA*****
+- [2.1](https://github.com/DzurisHome/LocalTuya#21) Rýchlejšie získanie *****KEY/KĽUČA*****.
 - [2.Cors](https://github.com/DzurisHome/LocalTuya#2cors) Môže sa stáť že sa nám neukáže odpoveď v *****[2.1](https://github.com/DzurisHome/LocalTuya#21)***** tak bude treba *****Cors***** ktorý iba funguje na *****Chromium prehladačoch*****.
 - [3](https://github.com/DzurisHome/LocalTuya#3) Pomalšie získanie *****KEY/KĽUČA***** ale môžme získať na par kliky všetky naraz kľúče a plus je potreba nainštalovať iba Node.js
 

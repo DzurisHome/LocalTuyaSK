@@ -43,6 +43,21 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
 
 ![Local Tuya](https://github.com/milandzuris/LocalTuya/blob/main/Local%20Tuya.png)    ![Home Assistant](https://github.com/DzurisHome/LocalTuya/blob/main/Home%20Assistant.png)
 
+## 3.2
+https://github.com/mileperhour/localtuya-homeassistant
+https://github.com/DrGBHindert/localtuya
+
+#### Thermostat
+`- platform: localtuya
+   host: Thermostat IP - Ip adresa Termostata
+   local_key: 'Tvoj local key'
+   device_id: 'Tvoj device id'
+   name: 'moes' - Meno Termostata ktoré bude sa ukazovať v Home Assistantovi
+   scan_interval: 5 - Interval skenovania
+   min_temp: 5 - Minimálna Teplota
+   max_temp: 35 - Maximálna Teplota
+   protocol_version: 3.3 - Protokol Local Tuya` 
+
 ## Social
 [<img src='https://img.icons8.com/nolan/64/discord-logo.png' alt='Discord' height='64'>](https://discord.gg/wpg5aAx) [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='Instagram' height='64'>](https://instagram.com/milandzuris) [<img src='https://img.icons8.com/nolan/64/twitter.png' alt='Twitter' height='64'>](https://twitter.com/DzurisHome)
 

@@ -56,7 +56,8 @@ https://github.com/DrGBHindert/localtuya
    scan_interval: 5 - Interval skenovania
    min_temp: 5 - Minimálna Teplota
    max_temp: 35 - Maximálna Teplota
-```protocol_version: 3.3 - Protokol Local Tuya
+   protocol_version: 3.3 - Protokol Local Tuya
+```
 
 ## Social
 [<img src='https://img.icons8.com/nolan/64/discord-logo.png' alt='Discord' height='64'>](https://discord.gg/wpg5aAx) [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='Instagram' height='64'>](https://instagram.com/milandzuris) [<img src='https://img.icons8.com/nolan/64/twitter.png' alt='Twitter' height='64'>](https://twitter.com/DzurisHome)

@@ -48,7 +48,8 @@ https://github.com/mileperhour/localtuya-homeassistant
 https://github.com/DrGBHindert/localtuya
 
 #### Thermostat
-```- platform: localtuya
+```
+ - platform: localtuya
    host: Thermostat IP - Ip adresa Termostata
    local_key: 'Tvoj local key'
    device_id: 'Tvoj device id'

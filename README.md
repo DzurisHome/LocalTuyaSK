@@ -55,7 +55,7 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
    host: Thermostat IP - Ip adresa Termostata
    local_key: 'Tvoj local key'
    device_id: 'Tvoj device id'
-   name: 'moes' - Meno Termostata ktoré bude sa ukazovať v Home Assistantovi
+   name: 'Bedroom Thermostat' - Meno Termostata ktoré bude sa ukazovať v Home Assistantovi
    scan_interval: 5 - Interval skenovania
    min_temp: 5 - Minimálna Teplota
    max_temp: 35 - Maximálna Teplota

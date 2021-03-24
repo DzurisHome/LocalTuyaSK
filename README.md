@@ -75,7 +75,7 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
    min_temp: 5 #Minimálna Teplota
    max_temp: 35 #Maximálna Teplota
    protocol_version: 3.3 #Protokol Local Tuya
-   #©Dzuriš Home
+   # ©Dzuriš Home
 ```
 
 ## Social

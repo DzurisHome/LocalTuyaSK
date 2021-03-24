@@ -67,14 +67,15 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
 #### Thermostat
 ```
  - platform: localtuya
-   host: Thermostat IP - Ip adresa Termostata
+   host: #Thermostat IP - Ip adresa Termostata
    local_key: 'Tvoj local key'
    device_id: 'Tvoj device id'
-   name: 'Bedroom Thermostat' - Meno Termostata ktoré bude sa ukazovať v Home Assistantovi
-   scan_interval: 5 - Interval skenovania
-   min_temp: 5 - Minimálna Teplota
-   max_temp: 35 - Maximálna Teplota
-   protocol_version: 3.3 - Protokol Local Tuya
+   name: 'Bedroom Thermostat' #- Meno Termostata ktoré bude sa ukazovať v Home Assistantovi
+   scan_interval: 5 - #Interval skenovania
+   min_temp: 5 - #Minimálna Teplota
+   max_temp: 35 - #Maximálna Teplota
+   protocol_version: 3.3 #- Protokol Local Tuya
+   #©Dzuriš Home
 ```
 
 ## Social

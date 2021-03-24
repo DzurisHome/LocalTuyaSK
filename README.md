@@ -11,6 +11,16 @@
 - Funguje to aj počas vypadaku (ISP) Internetu.
 - Nulová odozva.
 
+## Podporované zariadenie
+- Vypinače aj dvojtie vypinače atd.
+- Prepinače (Switch)
+- Zástrčky aj ktoré merajú spotrebu (vrátane tých s ďalšími USB konektormi)
+- Svetlá
+- Covers
+- Fans
+- Climates (Čoskoro)
+- Termostaty
+
 ## Mapa
 - [1](https://github.com/DzurisHome/LocalTuya#1) Potrebné bez toho sa ďalej *****neposuvneme*****.
 - [2.1](https://github.com/DzurisHome/LocalTuya#21) Získanie *****KEY/KĽUČA***** cez *****[Tuya IoT](https://iot.tuya.com/)*****.

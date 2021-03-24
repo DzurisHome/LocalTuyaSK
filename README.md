@@ -11,7 +11,9 @@
 - Funguje to aj počas vypadaku (ISP) Internetu.
 - Nulová odozva.
 
-## Podporované zariadenie
+## Podporované zariadenie a Appky
+- Tuya
+- Smart Life
 - Vypinače aj dvojtie vypinače atd.
 - Prepinače (Switch)
 - Zástrčky aj ktoré merajú spotrebu (vrátane tých s ďalšími USB konektormi)
@@ -21,7 +23,7 @@
 - Climates (Čoskoro)
 - Termostaty
 
-## Problémy nedostatky
+## Problémy a nedostatky
 Pokiaľ sa vyskytne dajaký problém alebo dajaký nedostatok tak sa pripoj *****[TU](https://discord.gg/Z9q3SnerWa)***** na Discord a tam to spíš a ti pomôžem stým.
 
 ## Mapa

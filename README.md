@@ -21,6 +21,9 @@
 - Climates (Čoskoro)
 - Termostaty
 
+## Problémy nedostatky
+Pokiaľ sa vyskytne dajaký problém alebo dajaký nedostatok tak sa pripoj *****[TU](https://discord.gg/Z9q3SnerWa)***** na Dicord a tam to spíš a ti pomôžem stým [<img src='https://img.icons8.com/nolan/64/discord-logo.png' alt='Discord' height='64'>](https://discord.gg/Z9q3SnerWa)
+
 ## Mapa
 - [1](https://github.com/DzurisHome/LocalTuya#1) Potrebné bez toho sa ďalej *****neposuvneme*****.
 - [2.1](https://github.com/DzurisHome/LocalTuya#21) Získanie *****KEY/KĽUČA***** cez *****[Tuya IoT](https://iot.tuya.com/)*****.

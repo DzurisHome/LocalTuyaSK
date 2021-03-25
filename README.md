@@ -25,7 +25,7 @@
 
 ## Problémy a nedostatky
 Pokiaľ sa vyskytne dajaký problém alebo dajaký nedostatok tak sa pripoj *****[TU](https://discord.gg/Z9q3SnerWa)***** na Discord a tam to spíš a ti pomôžem stým.
-### Pokiaľ nepôjde niečo z *****YAML Configu***** alebo budú fungovať aj tie YAML Kody, ktoré nesú overené tak mi to prosím napíš na Discord alebo do správy na Facebook popriapde z toho YAML Kodu Screen alebo Okopírovať cely Kod ďakujem.
+### Pokiaľ nepôjde niečo z *****YAML Configu***** alebo budú fungovať aj tie YAML Kody ktoré nesú overené *****Fajkou***** tak mi to prosím napíš na Discord alebo do správy na Facebook popriapde z toho YAML Kodu Screen alebo Okopírovať cely Kod ďakujem.
 
 ## Mapa
 - [1](https://github.com/DzurisHome/LocalTuya#1) Potrebné bez toho sa ďalej *****neposuvneme*****.

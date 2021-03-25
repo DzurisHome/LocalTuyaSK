@@ -64,8 +64,9 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
 ### [Tutorial 0.2](https://github.com/mileperhour/localtuya-homeassistant)
 ### [Tutorial TinyTuya 0.3](https://pypi.org/project/tinytuya/)
 
-### Zásuvka ktorá nemeria spotrebu
+### Zásuvka ktorá nemeria spotrebu [<img src='https://img.icons8.com/nolan/64/verified-account.png'alt='Potvrdené že to funguje' height='20'>]
 ```
+switch:
   - platform: localtuya
     host: 192.168.0.148 #IP ADRESA
     local_key: fdgdfg45f4g54d5fg4d6f5gdf5gd5f46g #LOCAL KEY
@@ -81,8 +82,9 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
    # ©Dzuriš Home
 ```
 
-### Zásuvka ktorá meria spotrebu
+### Zásuvka ktorá meria spotrebu [<img src='https://img.icons8.com/nolan/64/verified-account.png'alt='Potvrdené že to funguje' height='20'>]
 ```
+switch:
   - platform: localtuya
     host: 192.168.0.148 #IP ADRESA
     local_key: fdgdfg45f4g54d5fg4d6f5gdf5gd5f46g #LOCAL KEY
@@ -100,6 +102,7 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
 
 ### Covers
 ```
+cover:
   - platform: localtuya
     host: 192.168.0.148 #IP ADRESA
     local_key: fdgdfg45f4g54d5fg4d6f5gdf5gd5f46g #LOCAL KEY
@@ -119,6 +122,7 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
 
 ### Fan
 ```
+fan:
   - platform: localtuya
     host: 192.168.0.148 #IP ADRESA
     local_key: fdgdfg45f4g54d5fg4d6f5gdf5gd5f46g #LOCAL KEY
@@ -133,6 +137,7 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
 
 ### Light
 ```
+light:
   - platform: localtuya
     host: 192.168.0.148 #IP ADRESA
     local_key: fdgdfg45f4g54d5fg4d6f5gdf5gd5f46g #LOCAL KEY
@@ -157,6 +162,7 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
 
 ### Sensor
 ```
+sensor:
   - platform: localtuya
     host: 192.168.0.148 #IP ADRESA
     local_key: fdgdfg45f4g54d5fg4d6f5gdf5gd5f46g #LOCAL KEY
@@ -174,6 +180,7 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
 
 ### Binary Sensor
 ```
+binary_sensor:
   - platform: localtuya
     host: 192.168.0.148 #IP ADRESA
     local_key: fdgdfg45f4g54d5fg4d6f5gdf5gd5f46g #LOCAL KEY

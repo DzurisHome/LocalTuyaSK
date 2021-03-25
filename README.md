@@ -55,7 +55,7 @@ Pôjdeme na stránku [Node.js](https://nodejs.org/en/download/ "Node.js") a si s
 ![Node JS](https://github.com/DzurisHome/LocalTuya/blob/main/Node%20JS.png)    ![Terminal](https://github.com/DzurisHome/LocalTuya/blob/main/Terminal.png)
 
 ## 3
-Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikneme na *****Integrations***** vyhľadáme tam *****[Local Tuya](https://github.com/rospogrigio/localtuya)***** nainštalujeme a dáme reštart Home Assistanta, otvoríme si *****Configuration***** dáme integrations klikneme na *****+ ADD INTEGRATION***** vyhľadáme *****LocalTuya***** klikneme na to vybereme si zariadenie ktoré chceme pridať do *****Home Assistantovi***** dáme *****SUMBIT***** nastavíme Meno, do *****Key:***** pridáme tu odpoveď ktorá nám vyšla vo *****CMD/Tuya*****, rovanko v *****CMD***** je to pomenované ako v *****Home Assostantovi***** a v *****Tuya***** je to *****local_key*****, vybereme najnovší protkol dáme *****SUMBIT***** dalej mame tam *****ID***** nastavíme *****1 (value: False)***** len pokiaľ mame iba *****Switch***** alebo obyčajnú *****Zásuvku***** ktorá nemera nič, pokiaľ chceme niečo iné pridať tak to spravíme podľa toho to *****[TU](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#32)*****, vidíme *****Friendly name***** tam nastavíme meno akým chceme žeby to dane zariadenie bolo pomenované *****Current***** bude *****1 (value: False)***** tiež tak isto *****Current: Consumption***** aj *****Voltage***** a môžme dať *****SUMBIT***** a hotové.
+Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikneme na *****Integrations***** vyhľadáme tam *****[Local Tuya](https://github.com/rospogrigio/localtuya)***** nainštalujeme a dáme reštart Home Assistanta, otvoríme si *****Configuration***** dáme integrations klikneme na *****+ ADD INTEGRATION***** vyhľadáme *****LocalTuya***** klikneme na to vybereme si zariadenie ktoré chceme pridať do *****Home Assistantovi***** dáme *****SUMBIT***** nastavíme Meno, do *****Key:***** pridáme tu odpoveď ktorá nám vyšla vo *****CMD/Tuya*****, rovanko v *****CMD***** je to pomenované ako v *****Home Assostantovi***** a v *****Tuya***** je to *****local_key*****, vybereme najnovší protkol dáme *****SUMBIT***** dalej mame tam *****ID***** nastavíme *****1 (value: False)***** len pokiaľ mame iba *****Switch***** alebo obyčajnú *****Zásuvku***** ktorá nemeria nič, pokiaľ chceme niečo iné pridať tak to spravíme podľa toho to *****[TU](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#32)*****, vidíme *****Friendly name***** tam nastavíme meno akým chceme žeby to dane zariadenie bolo pomenované *****Current***** bude *****1 (value: False)***** tiež tak isto *****Current: Consumption***** aj *****Voltage***** a môžme dať *****SUMBIT***** a hotové.
 
 ![Local Tuya](https://github.com/milandzuris/LocalTuya/blob/main/Local%20Tuya.png)    ![Home Assistant](https://github.com/DzurisHome/LocalTuya/blob/main/Home%20Assistant.png)
 
@@ -63,6 +63,131 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
 ### [Originál Tutorial 0.1](https://github.com/DrGBHindert/localtuya)
 ### [Tutorial 0.2](https://github.com/mileperhour/localtuya-homeassistant)
 ### [Tutorial TinyTuya 0.3](https://pypi.org/project/tinytuya/)
+
+### Zásuvka ktorá nemerza spotrebu
+```
+  - platform: localtuya
+    host: 192.168.0.148 #IP ADRESA
+    local_key: fdgdfg45f4g54d5fg4d6f5gdf5gd5f46g #LOCAL KEY
+    device_id: dfjngnjdfng445gFGSD54 #DEVICE ID
+    protocol: 3.3 #3.3 ALEBO 3.1
+    current: Optional
+    current_consumption: Optional
+    voltage: Optional
+    switches:
+      Napr. Radiator:
+        friendly_name: Radiator #Meno ktoré sa bude ukazovať v *****HA*****
+        id: 1
+   # ©Dzuriš Home
+```
+
+### Zásuvka ktorá meria spotrebu
+```
+  - platform: localtuya
+    host: 192.168.0.148 #IP ADRESA
+    local_key: fdgdfg45f4g54d5fg4d6f5gdf5gd5f46g #LOCAL KEY
+    device_id: dfjngnjdfng445gFGSD54 #DEVICE ID
+    protocol: 3.3 #3.3 ALEBO 3.1
+    current: 18
+    current_consumption: 19
+    voltage: 20
+    switches:
+      Napr. Radiator:
+        friendly_name: Radiator #Meno ktoré sa bude ukazovať v *****HA*****
+        id: 1
+   # ©Dzuriš Home
+```
+
+### Covers
+```
+  - platform: localtuya
+    host: 192.168.0.148 #IP ADRESA
+    local_key: fdgdfg45f4g54d5fg4d6f5gdf5gd5f46g #LOCAL KEY
+    device_id: dfjngnjdfng445gFGSD54 #DEVICE ID
+    protocol: 3.3 #3.3 ALEBO 3.1
+    open_close_cmds: on_off #on_off ALEBO open_close
+    positioning_mode: node #none, position ALEBO fake
+    currpos_dps: 3 #Voliteľné, požadované iba pre režim poloha
+    setpos_dps: 4 #Voliteľné, požadované iba pre režim poloha
+    span_time: 25 #Voliteľné, alebo fake
+    covers:
+      Napr. Covers:
+        friendly_name: Covers #Meno ktoré sa bude ukazovať v *****HA*****
+        id: 2
+   # ©Dzuriš Home
+```
+
+### Fan
+```
+  - platform: localtuya
+    host: 192.168.0.148 #IP ADRESA
+    local_key: fdgdfg45f4g54d5fg4d6f5gdf5gd5f46g #LOCAL KEY
+    device_id: dfjngnjdfng445gFGSD54 #DEVICE ID
+    protocol: 3.3 #3.3 ALEBO 3.1
+    fans:
+      Napr. Fan:
+        friendly_name: Fan #Meno ktoré sa bude ukazovať v *****HA*****
+        id: 3
+   # ©Dzuriš Home
+```
+
+### Light
+```
+  - platform: localtuya
+    host: 192.168.0.148 #IP ADRESA
+    local_key: fdgdfg45f4g54d5fg4d6f5gdf5gd5f46g #LOCAL KEY
+    device_id: dfjngnjdfng445gFGSD54 #DEVICE ID
+    protocol: 3.3 #3.3 ALEBO 3.1
+    color_mode: 21 #Voliteľné, zvyčajne 2 alebo 21, predvolené: none
+    brightness: 22 #Voliteľné, zvyčajne 3 alebo 22, predvolené: none
+    color_temp: 23 #Voliteľné, zvyčajne 4 alebo 23, predvolené: none
+    color: 24 #Voliteľné, zvyčajne 5 (RGB:HSV) alebo 24 (HSV), predvolené: none
+    brightness_lower: 29 #Voliteľné, zvyčajne 0 alebo 29, predvolené: 29
+    brightness_upper: 1000 #Voliteľné, zvyčajne 255 alebo 1000, predvolené: 1000
+    color_temp_min_kelvin: 2700 #Voliteľné, predvolené: 2700
+    color_temp_max_kelvin: 6500 #Voliteľné, predvolené: 6500
+    scene: 25 #Voliteľné, zvyčajne 6 (RGB:HSV) alebo 25 (HSV), predvolené: none
+    music_mode: False #Voliteľné, niektoré používajú interný mikrofón, iné telefónny mikrofón. Podporovaný je iba interný mikrofón, predvolené nastavenie: False
+    lights:
+      Napr. Light:
+        friendly_name: Light #Meno ktoré sa bude ukazovať v *****HA*****
+        id: 4 #Zvyčajne 1 alebo 20
+   # ©Dzuriš Home
+```
+
+### Sensor
+```
+  - platform: localtuya
+    host: 192.168.0.148 #IP ADRESA
+    local_key: fdgdfg45f4g54d5fg4d6f5gdf5gd5f46g #LOCAL KEY
+    device_id: dfjngnjdfng445gFGSD54 #DEVICE ID
+    protocol: 3.3 #3.3 ALEBO 3.1
+    scaling: 0.1 #Voliteľné
+    device_class: voltage #Voliteľné
+    unit_of_measurement: "V" #Voliteľné
+    sensors:
+      Napr. Sensor:
+        friendly_name: Sensor #Meno ktoré sa bude ukazovať v *****HA*****
+        id: 20
+   # ©Dzuriš Home
+```
+
+### Binary Sensor
+```
+  - platform: localtuya
+    host: 192.168.0.148 #IP ADRESA
+    local_key: fdgdfg45f4g54d5fg4d6f5gdf5gd5f46g #LOCAL KEY
+    device_id: dfjngnjdfng445gFGSD54 #DEVICE ID
+    protocol: 3.3 #3.3 ALEBO 3.1
+    device_class: power
+    state_on: true #Voliteľné
+    state_off: false #Voliteľné
+    binary_sensors:
+      Napr. Binary_Sensor:
+        friendly_name: Binary Sensor #Meno ktoré sa bude ukazovať v *****HA*****
+        id: 1
+    # ©Dzuriš Home
+```
 
 #### Thermostat
 ```

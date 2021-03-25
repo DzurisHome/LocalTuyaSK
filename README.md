@@ -76,7 +76,7 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
     voltage: Optional
     switches:
       Napr. Radiator:
-        friendly_name: Radiator #Meno ktoré sa bude ukazovať v *****HA*****
+        friendly_name: Radiator #Meno ktoré sa bude ukazovať v HA
         id: 1
    # ©Dzuriš Home
 ```
@@ -93,7 +93,7 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
     voltage: 20
     switches:
       Napr. Radiator:
-        friendly_name: Radiator #Meno ktoré sa bude ukazovať v *****HA*****
+        friendly_name: Radiator #Meno ktoré sa bude ukazovať v HA
         id: 1
    # ©Dzuriš Home
 ```
@@ -112,7 +112,7 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
     span_time: 25 #Voliteľné, alebo fake
     covers:
       Napr. Covers:
-        friendly_name: Covers #Meno ktoré sa bude ukazovať v *****HA*****
+        friendly_name: Covers #Meno ktoré sa bude ukazovať v HA
         id: 2
    # ©Dzuriš Home
 ```
@@ -126,7 +126,7 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
     protocol: 3.3 #3.3 ALEBO 3.1
     fans:
       Napr. Fan:
-        friendly_name: Fan #Meno ktoré sa bude ukazovať v *****HA*****
+        friendly_name: Fan #Meno ktoré sa bude ukazovať v HA
         id: 3
    # ©Dzuriš Home
 ```
@@ -150,7 +150,7 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
     music_mode: False #Voliteľné, niektoré používajú interný mikrofón, iné telefónny mikrofón. Podporovaný je iba interný mikrofón, predvolené nastavenie: False
     lights:
       Napr. Light:
-        friendly_name: Light #Meno ktoré sa bude ukazovať v *****HA*****
+        friendly_name: Light #Meno ktoré sa bude ukazovať v HA
         id: 4 #Zvyčajne 1 alebo 20
    # ©Dzuriš Home
 ```
@@ -167,7 +167,7 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
     unit_of_measurement: "V" #Voliteľné
     sensors:
       Napr. Sensor:
-        friendly_name: Sensor #Meno ktoré sa bude ukazovať v *****HA*****
+        friendly_name: Sensor #Meno ktoré sa bude ukazovať v HA
         id: 20
    # ©Dzuriš Home
 ```
@@ -184,23 +184,9 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
     state_off: false #Voliteľné
     binary_sensors:
       Napr. Binary_Sensor:
-        friendly_name: Binary Sensor #Meno ktoré sa bude ukazovať v *****HA*****
+        friendly_name: Binary Sensor #Meno ktoré sa bude ukazovať v HA
         id: 1
     # ©Dzuriš Home
-```
-
-#### Thermostat
-```
- - platform: localtuya
-   host: #Ip adresa Termostata
-   local_key: 'Tvoj local key'
-   device_id: 'Tvoj device id'
-   name: 'Bedroom Thermostat' #Meno Termostata ktoré bude sa ukazovať v Home Assistantovi
-   scan_interval: 5 #Interval skenovania
-   min_temp: 5 #Minimálna Teplota
-   max_temp: 35 #Maximálna Teplota
-   protocol_version: 3.3 #Protokol Local Tuya
-   # ©Dzuriš Home
 ```
 
 ## Social

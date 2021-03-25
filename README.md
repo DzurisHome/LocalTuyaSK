@@ -24,7 +24,8 @@
 - Termostaty
 
 ## Problémy a nedostatky
-Pokiaľ sa vyskytne dajaký problém alebo dajaký nedostatok tak sa pripoj *****[TU](https://discord.gg/Z9q3SnerWa)***** na Discord a tam to spíš a ti pomôžem stým, ### pokiaľ nepôjde niečo z *****YAML Configu***** alebo budú fungovať aj tie YAML Kody, ktoré nesú overené tak mi to prosím napíš na Discord alebo do správy na Facebook popriapde z toho YAML Kodu Screen alebo Okopírovať cely Kod ďakujem.
+Pokiaľ sa vyskytne dajaký problém alebo dajaký nedostatok tak sa pripoj *****[TU](https://discord.gg/Z9q3SnerWa)***** na Discord a tam to spíš a ti pomôžem stým.
+### Pokiaľ nepôjde niečo z *****YAML Configu***** alebo budú fungovať aj tie YAML Kody, ktoré nesú overené tak mi to prosím napíš na Discord alebo do správy na Facebook popriapde z toho YAML Kodu Screen alebo Okopírovať cely Kod ďakujem.
 
 ## Mapa
 - [1](https://github.com/DzurisHome/LocalTuya#1) Potrebné bez toho sa ďalej *****neposuvneme*****.
@@ -64,7 +65,7 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
 ### [Tutorial 0.2](https://github.com/mileperhour/localtuya-homeassistant)
 ### [Tutorial TinyTuya 0.3](https://pypi.org/project/tinytuya/)
 
-### Zásuvka ktorá nemeria spotrebu ![Potvrdené že to funguje](https://github.com/milandzuris/LocalTuyaSK/blob/main/Verify.png)
+### Zásuvka ktorá nemeria spotrebu ![Potvrdené že to funguje](https://github.com/milandzuris/LocalTuya/blob/main/Verify.png)
 ```
 switch:
   - platform: localtuya
@@ -82,7 +83,7 @@ switch:
    # ©Dzuriš Home
 ```
 
-### Zásuvka ktorá meria spotrebu ![Potvrdené že to funguje](https://github.com/milandzuris/LocalTuyaSK/blob/main/Verify.png)
+### Zásuvka ktorá meria spotrebu ![Potvrdené že to funguje](https://github.com/milandzuris/LocalTuya/blob/main/Verify.png)
 ```
 switch:
   - platform: localtuya

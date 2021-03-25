@@ -64,7 +64,7 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
 ### [Tutorial 0.2](https://github.com/mileperhour/localtuya-homeassistant)
 ### [Tutorial TinyTuya 0.3](https://pypi.org/project/tinytuya/)
 
-### Zásuvka ktorá nemeria spotrebu [<img src='https://img.icons8.com/nolan/64/verified-account.png'alt='Potvrdené že to funguje' height='20'>]
+### Zásuvka ktorá nemeria spotrebu ![Potvrdené že to funguje](https://github.com/milandzuris/LocalTuyaSK/blob/main/Verify.png)
 ```
 switch:
   - platform: localtuya
@@ -82,7 +82,7 @@ switch:
    # ©Dzuriš Home
 ```
 
-### Zásuvka ktorá meria spotrebu [<img src='https://img.icons8.com/nolan/64/verified-account.png'alt='Potvrdené že to funguje' height='20'>]
+### Zásuvka ktorá meria spotrebu ![Potvrdené že to funguje](https://github.com/milandzuris/LocalTuyaSK/blob/main/Verify.png)
 ```
 switch:
   - platform: localtuya

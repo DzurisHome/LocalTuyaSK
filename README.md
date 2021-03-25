@@ -64,7 +64,7 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
 ### [Tutorial 0.2](https://github.com/mileperhour/localtuya-homeassistant)
 ### [Tutorial TinyTuya 0.3](https://pypi.org/project/tinytuya/)
 
-### Zásuvka ktorá nemerza spotrebu
+### Zásuvka ktorá nemeria spotrebu
 ```
   - platform: localtuya
     host: 192.168.0.148 #IP ADRESA

@@ -23,8 +23,8 @@
 - Climates (Čoskoro)
 
 ## Problémy a nedostatky
-Pokiaľ sa vyskytne dajaký problém alebo dajaký nedostatok tak sa pripoj *****[TU](https://discord.gg/Z9q3SnerWa)***** na Discord a tam to spíš a ti pomôžem stým.
-### Pokiaľ nepôjde niečo z *****YAML Configu***** alebo budú fungovať aj tie YAML Kody ktoré nesú overené *****Fajkou***** tak mi to prosím napíš na Discord alebo do správy na Facebook, pokiaľ niečo čo neje overené a ti to pôjde tak mi pošli screen z YAML Kodu alebo okopíruj ďakujem.
+🚨Pokiaľ sa vyskytne dajaký problém alebo dajaký nedostatok tak sa pripoj *****[TU](https://discord.gg/Z9q3SnerWa)***** na Discord a tam to spíš a ti pomôžem stým.
+### Pokiaľ nepôjde niečo z *****YAML Configu***** alebo budú fungovať aj tie YAML Kody ktoré nesú overené *****Fajkou***** tak mi to prosím napíš na Discord alebo do správy na Facebook, pokiaľ niečo čo neje overené a ti to pôjde tak mi pošli screen z YAML Kodu alebo okopíruj ďakujem.🚨
 
 ## Mapa
 - [1](https://github.com/DzurisHome/LocalTuya#1) Potrebné bez toho sa ďalej *****neposuvneme*****.
@@ -45,7 +45,7 @@ Prejdeme v *****[Tuya IoT](https://iot.tuya.com/)***** na *****[Cloud](https://i
 
 ### 2.Cors
 Nainštalujeme si *****[Cors](http://bit.ly/DzurišHomeCors)***** potom klikneme hore v právo na *****Cors***** a dáme *****Toggle ON***** a prejdem späť na *****[Tuya IoT](https://iot.tuya.com/)***** a dáme *****F5*****, prejdeme na *****[Cloud](https://iot.tuya.com/cloud/)***** potom *****[API Explorer](https://iot.tuya.com/cloud/appinfo/cappId/explorer)***** v *****Data Center***** vybereme si našu oblasť napr. *****Europa***** klikneme na *****Get device details***** vidíme tam *****device_id:***** do toho vložíme *****Device Name/ID***** ktorý mame okopirovany a stalčime *****Sumbit Request***** ktory je dole, práve nám vyšla odpved v *****Response***** a okopírujeme si iba *****local_key***** a mame hotové, pokiaľ chceme od ďalšieho zariadenia *****local_key***** urobíme to iste len len použijeme iné *****Device Name/ID*****.
-### Cors funguje iba na Chromium prehlidačoch
+### ⚠️Cors funguje iba na Chromium prehlidačoch⚠️
 
 ![Cors](https://github.com/DzurisHome/LocalTuya/blob/main/Cors.png)
 

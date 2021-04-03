@@ -41,23 +41,23 @@ Prvé pôjdeme na stránku *****[Tuya IoT](https://iot.tuya.com/)***** tam sa za
 ## 2.1
 Prejdeme v *****[Tuya IoT](https://iot.tuya.com/)***** na *****[Cloud](https://iot.tuya.com/cloud/)***** potom *****[API Explorer](https://iot.tuya.com/cloud/appinfo/cappId/explorer)***** v *****Data Center***** vybereme si našu oblasť napr. *****Europa***** klikneme na *****Get device details***** vidíme tam *****device_id:***** do toho vložíme *****Device Name/ID***** ktorý mame okopirovany a stalčime *****Sumbit Request***** ktorý je dole, práve nám vyšla odpved v *****Response***** pokiaľ nie klikni *****[TU](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#2Cors)*****, okopírujeme si iba *****local_key***** a mame hotové, pokiaľ chceme od ďalšieho zariadenia *****local_key***** urobíme to iste len len použijeme iné *****Device Name/ID*****.
 
-![Tuya](https://github.com/DzurisHome/LocalTuya/blob/main/Tuya%20Square.png)
+![Tuya](https://github.com/DzurisHome/LocalTuyaSK/blob/main/Tuya%20Square.png)
 
 ### 2.Cors
 Nainštalujeme si *****[Cors](http://bit.ly/DzurišHomeCors)***** potom klikneme hore v právo na *****Cors***** a dáme *****Toggle ON***** a prejdem späť na *****[Tuya IoT](https://iot.tuya.com/)***** a dáme *****F5*****, prejdeme na *****[Cloud](https://iot.tuya.com/cloud/)***** potom *****[API Explorer](https://iot.tuya.com/cloud/appinfo/cappId/explorer)***** v *****Data Center***** vybereme si našu oblasť napr. *****Europa***** klikneme na *****Get device details***** vidíme tam *****device_id:***** do toho vložíme *****Device Name/ID***** ktorý mame okopirovany a stalčime *****Sumbit Request***** ktory je dole, práve nám vyšla odpved v *****Response***** a okopírujeme si iba *****local_key***** a mame hotové, pokiaľ chceme od ďalšieho zariadenia *****local_key***** urobíme to iste len len použijeme iné *****Device Name/ID*****.
 ### ⚠️Cors funguje iba na Chromium prehlidačoch⚠️
 
-![Cors](https://github.com/DzurisHome/LocalTuya/blob/main/Cors.png)
+![Cors](https://github.com/DzurisHome/LocalTuyaSK/blob/main/Cors.png)
 
 ## 2.2
 Pôjdeme na stránku [Node.js](https://nodejs.org/en/download/ "Node.js") a si stiahneme *****Node.js***** a si ho nainštalujeme a po inštalácii si otovorime *****Príkazový Riadok CMD***** a si skopírujeme tam `npm i @tuyapi/cli -g` a dáme enter po ukončení si tam skopírujeme `tuya-cli wizard` a dáme enter po dalšiom ukončení bude to po nás pýtať *****The API key from tuya.com:***** skopírujeme tam svoj *****Access ID/Client ID:***** dáme enter potom *****Access Secret/Client Secret:***** dáme enter bude po nás teraz pýtať *****Provide a 'virtual ID' of a device currently registered in the app:***** vložíme ho tam a dáme zase enter, teraz na nás vyšla *****[odpoveď](https://github.com/DzurisHome/LocalTuyaSK/blob/main/CMD.jpg)***** (Kľúče) teraz si to cele niekde okpirujeme a môžme CMD vypnúť.
 
-![Node JS](https://github.com/DzurisHome/LocalTuya/blob/main/Node%20JS.png)    ![Terminal](https://github.com/DzurisHome/LocalTuya/blob/main/Terminal.png)
+![Node JS](https://github.com/DzurisHome/LocalTuyaSK/blob/main/Node%20JS.png)    ![Terminal](https://github.com/DzurisHome/LocalTuyaSK/blob/main/Terminal.png)
 
 ## 3
 Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikneme na *****Integrations***** vyhľadáme tam *****[Local Tuya](https://github.com/rospogrigio/localtuya)***** nainštalujeme a dáme reštart Home Assistanta, otvoríme si *****Configuration***** dáme integrations klikneme na *****+ ADD INTEGRATION***** vyhľadáme *****LocalTuya***** klikneme na to vybereme si zariadenie ktoré chceme pridať do *****Home Assistantovi***** dáme *****SUMBIT***** nastavíme Meno, do *****Key:***** pridáme tu odpoveď ktorá nám vyšla vo *****CMD/Tuya*****, rovanko v *****CMD***** je to pomenované ako v *****Home Assostantovi***** a v *****Tuya***** je to *****local_key*****, vybereme najnovší protkol dáme *****SUMBIT***** dalej mame tam *****ID***** nastavíme *****1 (value: False)***** len pokiaľ mame iba *****Switch***** alebo obyčajnú *****Zásuvku***** ktorá nemeria nič, pokiaľ chceme niečo iné pridať tak to spravíme podľa toho to *****[TU](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#32)*****, vidíme *****Friendly name***** tam nastavíme meno akým chceme žeby to dane zariadenie bolo pomenované *****Current***** bude *****1 (value: False)***** tiež tak isto *****Current: Consumption***** aj *****Voltage***** a môžme dať *****SUMBIT***** a hotové.
 
-![Local Tuya](https://github.com/milandzuris/LocalTuya/blob/main/Local%20Tuya.png)    ![Home Assistant](https://github.com/DzurisHome/LocalTuya/blob/main/Home%20Assistant.png)
+![Local Tuya](https://github.com/milandzuris/LocalTuyaSK/blob/main/Local%20Tuya.png)    ![Home Assistant](https://github.com/DzurisHome/LocalTuyaSK/blob/main/Home%20Assistant.png)
 
 ## 3.2
 ### [Originál Tutorial 0.1](https://github.com/DrGBHindert/localtuya)

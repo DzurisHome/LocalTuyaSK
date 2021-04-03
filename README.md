@@ -30,7 +30,8 @@
 - [1](https://github.com/DzurisHome/LocalTuya#1) Potrebné bez toho sa ďalej *****neposuvneme*****.
 - [2.1](https://github.com/DzurisHome/LocalTuya#21) Získanie *****KEY/KĽUČA***** cez *****[Tuya IoT](https://iot.tuya.com/)*****.
 - [2.Cors](https://github.com/DzurisHome/LocalTuya#2cors) Môže sa stáť že sa nám neukáže odpoveď v *****[2.1](https://github.com/DzurisHome/LocalTuya#21)***** tak bude treba *****Cors***** ktorý iba funguje na *****Chromium prehladačoch*****.
-- [3](https://github.com/DzurisHome/LocalTuya#3) Rýchlejšie získanie *****KEY/KĽUČA*****, môžme získať na par kliky všetky naraz kľúče a plus je potreba nainštalovať iba *****Node.js*****.
+- [2.2](https://github.com/DzurisHome/LocalTuya#2.2) Rýchlejšie získanie *****KEY/KĽUČA*****, môžme získať na par kliky všetky naraz kľúče a plus je potreba nainštalovať iba *****Node.js*****.
+- [3](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#3) Ako pridať *****zariadenia***** do *****Home Assistanta*****.
 - [3.2](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#32) Ako nastaviť *****ID, Current, Current Consumption, Voltage***** pokiaľ mame niečo iné ako *****Switch***** a obyčajnú *****Zásuvku***** čo nič nemera.
 
 ## 1

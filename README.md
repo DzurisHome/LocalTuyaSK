@@ -1,14 +1,14 @@
 # Local Tuya Tutorial SK
 
-## Ako integrovať Tuya zariadenia do Home Assistanta cez Tuya Local.
+## Ako integrovať Tuya zariadenia do Home Assistanta cez Local Tuya.
 
 ![Dzuriš Home, Local Tuya, Tuya](https://github.com/DzurisHome/LocalTuya/blob/main/0.1.jpg)
 
 [<img src='https://img.icons8.com/nolan/64/discord-logo.png' alt='Discord' height='64'>](https://discord.gg/wpg5aAx) [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='Instagram' height='64'>](https://instagram.com/dzurishome) [<img src='https://img.icons8.com/nolan/64/twitter.png' alt='Twitter' height='64'>](https://twitter.com/DzurisHome)
 
 ## Výhody
-- Funguje to Lokálne nevyužíva to Cloud, neje potreba žiadny Tuya Convert.
-- Funguje to aj počas vypadaku (ISP) Internetu.
+- Funguje to Lokálne nevyužíva to Cloud, nie je potreba žiadny Tuya Convert.
+- Funguje to aj počas vypadku (ISP) Internetu.
 - Nulová odozva.
 
 ## Podporované zariadenie a Appky

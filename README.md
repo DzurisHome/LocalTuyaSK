@@ -40,7 +40,7 @@ Prvé pôjdeme na stránku *****[Tuya IoT](https://iot.tuya.com/)***** tam sa za
 ![Tuya](https://github.com/milandzuris/LocalTuya/blob/main/Tuya.png)
 
 ## 2.1
-Prejdeme v *****[Tuya IoT](https://iot.tuya.com/)***** na *****[Cloud](https://iot.tuya.com/cloud/)***** potom *****[API Explorer](https://iot.tuya.com/cloud/appinfo/cappId/explorer)***** v *****Data Center***** vybereme si našu oblasť napr. *****Europa***** klikneme na *****Get device details***** vidíme tam *****device_id:***** do toho vložíme *****Device Name/ID***** ktorý mame okopirovany a stalčime *****Sumbit Request***** ktorý je dole, práve nám vyšla odpved v *****Response***** pokiaľ nie klikni *****[TU](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#2Cors)*****, okopírujeme si iba *****local_key***** a mame hotové, pokiaľ chceme od ďalšieho zariadenia *****local_key***** urobíme to iste len len použijeme iné *****Device Name/ID*****.
+Prejdeme v *****[Tuya IoT](https://iot.tuya.com/)***** na *****[Cloud](https://iot.tuya.com/cloud/)***** potom *****[API Explorer](https://iot.tuya.com/cloud/appinfo/cappId/explorer)***** v *****Data Center***** vybereme si našu oblasť napr. *****Europa***** klikneme na *****Get device details***** vidíme tam *****device_id:***** do toho vložíme *****Device Name/ID***** ktorý mame okopirovany a stlačime *****Sumbit Request***** ktorý je dole, práve nám vyšla odpved v *****Response***** pokiaľ nie klikni *****[TU](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#2Cors)*****, okopírujeme si iba *****local_key***** a mame hotové, pokiaľ chceme od ďalšieho zariadenia *****local_key***** urobíme to iste len len použijeme iné *****Device Name/ID*****.
 
 ![Tuya](https://github.com/DzurisHome/LocalTuyaSK/blob/main/Tuya%20Square.png)
 

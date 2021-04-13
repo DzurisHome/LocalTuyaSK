@@ -61,7 +61,7 @@ Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikn
 ![Local Tuya](https://github.com/milandzuris/LocalTuyaSK/blob/main/Local%20Tuya.png)    ![Home Assistant](https://github.com/DzurisHome/LocalTuyaSK/blob/main/Home%20Assistant.png)
 
 ## 3.2
-### [Originál Tutorial 0.1](https://github.com/DrGBHindert/localtuya)
+### [Originál Tutorial 0.1](https://github.com/rospogrigio/localtuya)
 ### [Tutorial 0.2](https://github.com/mileperhour/localtuya-homeassistant)
 ### [Tutorial TinyTuya 0.3](https://pypi.org/project/tinytuya/)
 

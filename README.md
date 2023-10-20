@@ -29,11 +29,11 @@
 
 ## Mapa
 - [1](https://github.com/DzurisHome/LocalTuya#1) Potrebné bez toho sa ďalej *****neposuvneme*****.
-- [2](https://github.com/DzurisHome/LocalTuya#2) Získanie *****KEY/KĽUČA***** cez *****[Tuya IoT](https://iot.tuya.com/)*****.
-- [3](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#3) Ako pridať *****Local Tuya***** Integráciu do *****Home Assistanta*****.
+- [2](https://github.com/DzurisHome/LocalTuya#2) Získanie *****Local Key***** cez *****[Tuya IoT](https://iot.tuya.com/)*****.
+- [3](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#3) Ako pridať *****[Local Tuya](https://github.com/rospogrigio/localtuya)***** Integráciu do *****Home Assistanta*****.
 - [4](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#4) Ako pridať *****Zariadenie***** do *****Local Tuya*****.
-- [5](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#5) Tabuľka *****DP*****
-- [6](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#6) Ako zistiť *****DP*****
+- [5](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#5) Ako zistiť *****DP***** 
+- [6](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#6) Tabuľka *****DP*****
 
 ### 1
 Prvé pôjdeme na stránku *****[Tuya IoT](https://iot.tuya.com/)***** tam sa zaregistrujeme a prihlásime potom pôjdeme na položku *****[Cloud](https://iot.tuya.com/cloud/)***** práve vidíme pred sebou na právo *****Create Cloud Project***** klikneme nato potom do *****Project Name***** vložíme dajaký svoj vlastný názov v *****Industry***** dáme *****Smart Home***** v *****Development Method***** zase *****Smart Home***** a v *****Data Center***** najbližší *****Data Center***** a stlačíme dole *****Create***** dalej*****Authorize***** a mame to,
@@ -62,7 +62,7 @@ vyplníme *****Name***** meno jake chceme *****Host***** IP Adresu *****Device I
 
 *****[tuya-uncover | Blakadder](https://github.com/blakadder/tuya-uncover)*****
 
-*****Tabuľka:*****
+### 6
 
 | Verzia 3.1 (a nejaké 3.3) - Plug alebo Switch |
 | DP ID | Funkčný bod | Typ     | Rozsah     | Jednotky     |

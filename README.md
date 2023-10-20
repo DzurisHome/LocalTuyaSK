@@ -24,8 +24,13 @@
 - Climates
 - Vacuums (Vysávač)
 
-### Problémy a nedostatky
-🚨Pokiaľ sa vyskytne dajaký problém alebo dajaký nedostatok tak to spíš do Issues a ti pomôžem stým.
+### Problémy nedostatky a kroky na Reprodukciu problému
+- Pozrieť *****Log*****
+- *****Reštart***** Home Assistant
+- Skontrolovať *****Platnosť*****  *****[Development Plan](https://iot.tuya.com/cloud/)*****
+- Vrátiť späť na staršiu *****Verziu***** Home Assistant alebo Local Tuya
+
+- 🚨 Pokiaľ sa vyskytne dajaký *****problém***** alebo dajaký *****nedostatok***** tak to spíš do *****Issues***** a ti pomôžem stým.
 
 ## Mapa
 - [1](https://github.com/DzurisHome/LocalTuya#1) Potrebné bez toho sa ďalej *****neposuvneme*****.

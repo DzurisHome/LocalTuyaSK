@@ -32,7 +32,7 @@
 - [2](https://github.com/DzurisHome/LocalTuya#2) Získanie *****Local Key***** cez *****[Tuya IoT](https://iot.tuya.com/)*****.
 - [3](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#3) Ako pridať *****[Local Tuya](https://github.com/rospogrigio/localtuya)***** Integráciu do *****Home Assistanta*****.
 - [4](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#4) Ako pridať *****Zariadenie***** do *****Local Tuya*****.
-- [5](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#5) Ako zistiť *****DP***** 
+- [5](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#5) Ako zistiť *****DP*****
 - [6](https://github.com/DzurisHome/LocalTuya/blob/main/README.md#6) Tabuľka *****DP*****
 
 ### 1
@@ -58,11 +58,10 @@ V *****Integraci***** si nájdeme tam *****Local Tuya***** Integráciu a klineme
 vyplníme *****Name***** meno jake chceme *****Host***** IP Adresu *****Device ID***** *****local_key***** ak pridávame sami zariadenie pomocou *****bodiek***** musíme si zistiť aký *****Protocol Version***** a ako pridávame automaticky tak necháme ako to samé nastavilo, *****Scan interval***** nastavíme ak mame produkt ktorý meria spotrebu *****najmenej 5 skeund ak dáme menej môžu byt výpadky a nestabilita zariadenia*****, *****Manual DPS***** si zistime zvyčajne je to *****1*****.
 
 ### 5
-*****[Tuya Data Points | Dzuriš Home](https://github.com/DzurisHome/Tuya-Data-Points)*****
-
 *****[tuya-uncover | Blakadder](https://github.com/blakadder/tuya-uncover)*****
 
 ### 6
+*****[Tuya Data Points | Dzuriš Home](https://github.com/DzurisHome/Tuya-Data-Points)*****
 
 | Verzia 3.1 (a nejaké 3.3) - Plug alebo Switch |
 | DP ID | Funkčný bod | Typ     | Rozsah     | Jednotky     |

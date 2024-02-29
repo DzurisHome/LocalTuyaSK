@@ -2,7 +2,7 @@
 
 ## [LinkTree](https://linktr.ee/DzurisHome)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N6M7OX3)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/DzurisHome)
 
 </br>
 
@@ -49,23 +49,25 @@
 Prvé pôjdeme na stránku *****[Tuya IoT](https://iot.tuya.com/)***** tam sa zaregistrujeme a prihlásime potom pôjdeme na položku *****[Cloud](https://iot.tuya.com/cloud/)***** práve vidíme pred sebou na právo *****Create Cloud Project***** klikneme nato potom do *****Project Name***** vložíme dajaký svoj vlastný názov v *****Industry***** dáme *****Smart Home***** v *****Development Method***** zase *****Smart Home***** a v *****Data Center***** najbližší *****Data Center***** a stlačíme dole *****Create***** dalej*****Authorize***** a mame to,
 vidíme tam *****Deivces***** klikneme nato potom klikneme na *****Link Tuya App Account***** a ešte klikneme na právo na *****Add App Account***** práve sa nám zobrazil *****QR KOD***** teraz prejdeme do aplikácií čo mame v mobile alebo tablete buď *****(Tuya alebo SmartLife)***** stlačíme to *****plusko***** čo je v právo hore a teraz klikneme Scan a môžme oskenoať ten *****QR KOD***** ktorý sa nám ukázal na *****[Tuya IoT](https://iot.tuya.com/)*****, o skenujeme klineme na *****Confirm login***** potom na *****[Tuya IoT](https://iot.tuya.com/)***** klineme už iba na *****OK***** a prepojenie je úspešne a ešte zatvoríme tu kartu čo nám vyhodilo počas prepojenia Aplikácií.
 
-![Tuya](https://github.com/milandzuris/LocalTuyaSK/blob/main/Tuya.png)
+![Tuya](https://github.com/DzurisHome/LocalTuyaSK/blob/main/Images/Tuya.png)
 
 ### 2
 V *****All Devices***** vyberieme si naše zariadenia ktoré chceme pridať do *****Home Assistant***** a si okopírujeme jeho *****Device ID*****,
 teraz prejdeme na *****[Cloud](https://iot.tuya.com/cloud/)***** je na vľavo potom klikneme na *****[API Explorer](https://iot.tuya.com/cloud/explorer)***** nájdeme si tam *****Device Management***** klikneme nato a dáme *****Query Device Details***** vidíme tam *****device_id***** vložíme tam náš *****Device ID***** a stlačíme *****Sumbit Request***** ktorý je dole, práve nám vyšla odpved v *****Response***** skopírujeme si iba *****local_key***** a mame hotové.
 
-![Tuya](https://github.com/DzurisHome/LocalTuyaSK/blob/main/Tuya%20Square.png)
+![Tuya](https://github.com/DzurisHome/LocalTuyaSK/blob/main/Images/Tuya%20Square.png)
 
 ### 3
 Otvoríme si v *****Home Assistantovi [HACS](https://github.com/hacs)***** klikneme na *****Integrations***** vyhľadáme tam *****[Local Tuya](https://github.com/rospogrigio/LocalTuyaSK)***** nainštalujeme a dáme reštart Home Assistanta, otvoríme si *****Configuration***** dáme integrations klikneme na *****+ ADD INTEGRATION***** vyhľadáme *****LocalTuyaSK***** klikneme na to, práve nám vyhodí kartu na vyplnenie, vyplníme *****API server region***** na ten náš ktorý sme zadávali v [1](https://github.com/DzurisHome/LocalTuyaSK#1) a mame na výber buď vyplníme všetky informácie a nemusíme už potom zisťovať pri pridavani nových zariadení *****local_key***** iba *****DP***** alebo za klikneme dole *****Do not configure Cloud API account***** a potom pri každom pridanom zariadení musíme ešte si zistiť *****local_key*****, ak necháme tuto možnosť *****Do not configure Cloud API account***** tak len zaklineme toto a už len *****SUMBIT***** a mame hotovo,
 ak vyberieme si možnosť že vyplníme všetko tak *****Clinet ID***** a *****Secret***** všetko sa nachádza ako sme založili náš projekt hneď na začiatku *****[Cloud](https://iot.tuya.com/cloud/)***** a *****User ID***** nájdeme v *****Devices***** potom *****Link Tuya App Account***** a tam mame *****UID***** a to si okopírujeme a pridáme do *****User ID***** a môžme kliknúť na *****SUMBIT***** a mame hotovo.
 
-![Tuya](https://github.com/milandzuris/LocalTuyaSK/blob/main/Tuya.png)
+![Tuya](https://github.com/DzurisHome/LocalTuyaSK/blob/main/Images/Tuya.png)
 
 ### 4
 V *****Integraci***** si nájdeme tam *****Local Tuya***** Integráciu a klineme na ňu a mame tam *****CONFIGURE***** zase nato klineme a je tam hneď *****Add a new device***** toto zanecháme a dáme *****SUMBIT***** a vyberem si ktoré *****Zariadenie***** chceme pridať keď nenašlo tak klikneme na tie bodky a zase dáme *****SUMBIT*****,
 vyplníme *****Name***** meno jake chceme *****Host***** IP Adresu *****Device ID***** *****local_key***** ak pridávame sami zariadenie pomocou *****bodiek***** musíme si zistiť aký *****Protocol Version***** a ako pridávame automaticky tak necháme ako to samé nastavilo, *****Scan interval***** nastavíme ak mame produkt ktorý meria spotrebu *****najmenej 5 skeund ak dáme menej môžu byt výpadky a nestabilita zariadenia*****, *****Manual DPS***** si zistime zvyčajne je to *****1*****.
+
+![Local Tuya](https://github.com/DzurisHome/LocalTuyaSK/blob/main/Images/Local%20Tuya.png) 
 
 ### 5
 *****[tuya-uncover | Blakadder](https://github.com/blakadder/tuya-uncover)*****
@@ -159,10 +161,8 @@ vyplníme *****Name***** meno jake chceme *****Host***** IP Adresu *****Device I
 | 12    | Indicator status setting | enum  | none, relay, pos |       |
 | 13    | Backlight switch      | bool    | True/False   |       |
 
-![Local Tuya](https://github.com/milandzuris/LocalTuyaSK/blob/main/Local%20Tuya.png)    ![Home Assistant](https://github.com/DzurisHome/LocalTuyaSK/blob/main/Home%20Assistant.png)
-
 </br>
 
 ## [LinkTree](https://linktr.ee/DzurisHome)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N6M7OX3)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/DzurisHome)

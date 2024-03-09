@@ -12,17 +12,19 @@
 - Funguje to Lokálne nevyužíva Cloud, nie je potreba žiadny Tuya Convert.
 - Funguje to aj počas výpadku (ISP) Internetu.
 
-### Podporované Aplikácie
-- Tuya
-- Smart Life
+> [!NOTE]
+> ### Podporované Aplikácie
+> - Tuya
+> - Smart Life
 
-### Podporované zariadenia
-- Switches (Vypínače)
-- Lights (Svetla)
-- Covers
-- Fans
-- Climates
-- Vacuums (Vysávač)
+> [!NOTE]
+> ### Podporované zariadenia
+> - Switches (Vypínače)
+> - Lights (Svetla)
+> - Covers
+> - Fans
+> - Climates
+> - Vacuums (Vysávač)
 
 > [!IMPORTANT]
 > ### Problémy nedostatky a kroky na Reprodukciu problému
